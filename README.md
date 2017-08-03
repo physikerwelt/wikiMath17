@@ -11,3 +11,6 @@ Dataset of English Wikipedia Articles Containing &lt;math/>, &lt;ce/> or &lt;che
 
 ### 2017-08-02
 * Start running wikifilter script without arguments in physikerwelt@mathosphere:/srv/reg/wikiFilter
+
+### 2017-08-03
+* Filtering process completed (release v0.1)
