@@ -21,5 +21,5 @@ Dataset of English Wikipedia Articles Containing &lt;math/>, &lt;ce/> or &lt;che
 * Develop math tag extraction using [mathosphere](https://github.com/TU-Berlin/mathosphere/commit/df784c7e2dc9b7aca3f9db3489ea6923e42f70c9)
 
 ### 2017-08-08
-
+* upload second version (release v0.2) processing time was <3h
 
