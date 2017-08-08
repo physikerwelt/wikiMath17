@@ -17,7 +17,9 @@ Dataset of English Wikipedia Articles Containing &lt;math/>, &lt;ce/> or &lt;che
 * Discover false positives `<center` instead of `<ce`:[fix](https://github.com/physikerwelt/wikiFilter/commit/1f612080b3f85cb43a1bd5adf648a3997f9d42f0)
 * restart filtering
 
-### 2017-08-14
+### 2017-08-04
 * Develop math tag extraction using [mathosphere](https://github.com/TU-Berlin/mathosphere/commit/df784c7e2dc9b7aca3f9db3489ea6923e42f70c9)
+
+### 2017-08-08
 
 
