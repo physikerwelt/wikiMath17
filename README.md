@@ -23,3 +23,8 @@ Dataset of English Wikipedia Articles Containing &lt;math/>, &lt;ce/> or &lt;che
 ### 2017-08-08
 * upload second version (release v0.2) processing time was <3h
 
+### 2017-08-26
+* Improve math tag extraction in mathosphere
+
+### 2017-08-27
+* Fix bugs in chemistry extraction
