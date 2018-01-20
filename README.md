@@ -28,3 +28,6 @@ Dataset of English Wikipedia Articles Containing &lt;math/>, &lt;ce/> or &lt;che
 
 ### 2017-08-27
 * Fix bugs in chemistry extraction
+
+### 2018-01-20
+* Add dataset of all formulae to (v0.3)
